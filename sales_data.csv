@@ -1,0 +1,101 @@
+Order ID,Date,Product Name,Category,Quantity Sold,Price per Unit,Total Sales,Customer Location,Customer Age,Payment Method
+ORD0001,27-01-2024,Headphones,Electronics,1,44.17,44.17,Phoenix,24,Cash
+ORD0002,09-03-2024,Table,Furniture,3,307.46,922.38,Chicago,31,Cash
+ORD0003,29-02-2024,Sneakers,Clothing,3,163.97,491.91,Philadelphia,20,Credit Card
+ORD0004,27-03-2024,Bread,Grocery,5,454.42,2272.1,Chicago,52,UPI
+ORD0005,18-03-2024,T-shirt,Clothing,2,18.33,36.66,Phoenix,27,UPI
+ORD0006,22-01-2024,Laptop,Electronics,5,382.05,1910.25,Philadelphia,18,Credit Card
+ORD0007,11-03-2024,Sneakers,Clothing,1,467.98,467.98,New York,52,Online Transaction
+ORD0008,04-02-2024,Headphones,Electronics,4,284.11,1136.44,Houston,35,Online Transaction
+ORD0009,04-02-2024,Sneakers,Clothing,2,100.16,200.32,Philadelphia,21,Online Transaction
+ORD0010,18-02-2024,Sneakers,Clothing,1,59.4,59.4,Los Angeles,26,Online Transaction
+ORD0011,03-03-2024,Laptop,Electronics,3,256.59,769.77,Los Angeles,24,Debit Card
+ORD0012,29-01-2024,Jeans,Clothing,1,37.84,37.84,Los Angeles,56,Credit Card
+ORD0013,20-01-2024,Laptop,Electronics,5,312.95,1564.75,Chicago,59,Debit Card
+ORD0014,30-03-2024,Jeans,Clothing,1,387.59,387.59,Chicago,30,Credit Card
+ORD0015,29-02-2024,Milk,Grocery,4,489.19,1956.76,San Antonio,49,Debit Card
+ORD0016,09-02-2024,T-shirt,Clothing,5,383.17,1915.85,San Antonio,37,UPI
+ORD0017,10-02-2024,Eggs,Grocery,5,318.08,1590.4,Chicago,43,UPI
+ORD0018,27-01-2024,Table,Furniture,4,21.93,87.72,New York,33,Cash
+ORD0019,15-03-2024,Bread,Grocery,5,244.47,1222.35,San Antonio,37,Debit Card
+ORD0020,03-03-2024,Milk,Grocery,3,157.81,473.43,Philadelphia,54,Cash
+ORD0021,13-03-2024,Lamp,Furniture,3,373.76,1121.28,Chicago,25,Credit Card
+ORD0022,13-03-2024,Smartphone,Electronics,4,223.22,892.88,San Antonio,43,Online Transaction
+ORD0023,04-02-2024,Sneakers,Clothing,4,292.55,1170.2,Houston,57,Cash
+ORD0024,06-01-2024,T-shirt,Clothing,2,207.79,415.58,Houston,24,Credit Card
+ORD0025,18-03-2024,Table,Furniture,5,303.71,1518.55,Houston,33,Credit Card
+ORD0026,10-01-2024,Smartphone,Electronics,5,376.85,1884.25,Philadelphia,40,Cash
+ORD0027,12-03-2024,Headphones,Electronics,1,11.24,11.24,Houston,30,UPI
+ORD0028,09-03-2024,Lamp,Furniture,3,159.54,478.62,Philadelphia,59,Cash
+ORD0029,11-01-2024,Smartphone,Electronics,4,87.74,350.96,Los Angeles,29,Online Transaction
+ORD0030,15-02-2024,Bread,Grocery,4,322.11,1288.44,Chicago,38,Cash
+ORD0031,21-03-2024,Bread,Grocery,5,313.1,1565.5,Los Angeles,24,Cash
+ORD0032,11-03-2024,Milk,Grocery,5,345.11,1725.55,Chicago,38,Online Transaction
+ORD0033,01-01-2024,Headphones,Electronics,1,188.37,188.37,Los Angeles,59,UPI
+ORD0034,10-02-2024,Jeans,Clothing,3,89.15,267.45,San Antonio,34,Online Transaction
+ORD0035,12-03-2024,Eggs,Grocery,5,397.56,1987.8,New York,33,Cash
+ORD0036,23-03-2024,Headphones,Electronics,2,441.46,882.92,San Antonio,43,Credit Card
+ORD0037,23-03-2024,Table,Furniture,1,297.99,297.99,Houston,23,Online Transaction
+ORD0038,07-03-2024,Bread,Grocery,4,486.93,1947.72,Houston,30,Cash
+ORD0039,04-03-2024,Laptop,Electronics,3,249.53,748.59,New York,31,Debit Card
+ORD0040,24-01-2024,Sneakers,Clothing,2,370.87,741.74,Los Angeles,56,Debit Card
+ORD0041,27-03-2024,Lamp,Furniture,3,271.49,814.47,Houston,55,UPI
+ORD0042,12-02-2024,Lamp,Furniture,4,275.46,1101.84,Chicago,58,Online Transaction
+ORD0043,24-01-2024,Table,Furniture,3,425.69,1277.07,Chicago,48,Online Transaction
+ORD0044,17-03-2024,Bread,Grocery,4,207.46,829.84,Los Angeles,59,Cash
+ORD0045,31-01-2024,Lamp,Furniture,2,212.85,425.7,Philadelphia,35,Cash
+ORD0046,27-03-2024,Headphones,Electronics,3,68.85,206.55,Phoenix,52,Online Transaction
+ORD0047,11-02-2024,Chair,Furniture,4,249.76,999.04,Chicago,53,UPI
+ORD0048,28-01-2024,Sneakers,Clothing,2,305.07,610.14,Philadelphia,36,Credit Card
+ORD0049,30-03-2024,Milk,Grocery,5,174.93,874.65,Los Angeles,29,Debit Card
+ORD0050,04-03-2024,Table,Furniture,1,312.6,312.6,Philadelphia,29,Cash
+ORD0051,08-03-2024,Headphones,Electronics,5,349.45,1747.25,Chicago,39,Cash
+ORD0052,15-02-2024,Chair,Furniture,1,349.63,349.63,Los Angeles,56,Online Transaction
+ORD0053,20-02-2024,T-shirt,Clothing,3,128.07,384.21,Philadelphia,21,Debit Card
+ORD0054,25-01-2024,Laptop,Electronics,3,465.79,1397.37,Los Angeles,40,UPI
+ORD0055,07-01-2024,Eggs,Grocery,5,143.39,716.95,Phoenix,28,UPI
+ORD0056,16-03-2024,Bread,Grocery,3,34.63,103.89,Los Angeles,51,Credit Card
+ORD0057,15-01-2024,Lamp,Furniture,3,379.96,1139.88,Houston,21,Cash
+ORD0058,09-01-2024,Eggs,Grocery,5,28.02,140.1,Philadelphia,46,Cash
+ORD0059,22-01-2024,Headphones,Electronics,2,129.4,258.8,San Antonio,49,Cash
+ORD0060,25-01-2024,Jeans,Clothing,3,418.21,1254.63,New York,48,Credit Card
+ORD0061,11-02-2024,Jeans,Clothing,5,481.84,2409.2,Houston,22,UPI
+ORD0062,23-03-2024,Chair,Furniture,3,113.66,340.98,Chicago,53,UPI
+ORD0063,17-03-2024,Headphones,Electronics,3,62.51,187.53,Chicago,37,Cash
+ORD0064,18-02-2024,Sneakers,Clothing,4,32.2,128.8,Houston,31,Online Transaction
+ORD0065,26-01-2024,Lamp,Furniture,4,412.47,1649.88,Philadelphia,41,Cash
+ORD0066,30-01-2024,Milk,Grocery,5,281.82,1409.1,San Antonio,31,Credit Card
+ORD0067,14-02-2024,Table,Furniture,4,398.21,1592.84,Houston,55,Cash
+ORD0068,10-01-2024,Laptop,Electronics,1,72.36,72.36,Philadelphia,19,Cash
+ORD0069,25-01-2024,Chair,Furniture,1,86.16,86.16,Houston,29,Debit Card
+ORD0070,01-02-2024,Jeans,Clothing,5,168.81,844.05,Los Angeles,23,UPI
+ORD0071,15-01-2024,Headphones,Electronics,2,84.97,169.94,San Antonio,36,UPI
+ORD0072,24-03-2024,Smartphone,Electronics,2,466.97,933.94,San Antonio,29,Cash
+ORD0073,04-02-2024,Milk,Grocery,2,379.12,758.24,Houston,23,Credit Card
+ORD0074,12-02-2024,Chair,Furniture,5,324.25,1621.25,San Antonio,31,Cash
+ORD0075,21-02-2024,Smartphone,Electronics,2,271.04,542.08,Houston,29,UPI
+ORD0076,20-02-2024,T-shirt,Clothing,5,319.2,1596,Los Angeles,34,Debit Card
+ORD0077,13-01-2024,Smartphone,Electronics,3,218.78,656.34,San Antonio,42,UPI
+ORD0078,31-03-2024,Headphones,Electronics,5,156.54,782.7,Houston,18,Cash
+ORD0079,12-01-2024,Table,Furniture,4,154.61,618.44,San Antonio,44,UPI
+ORD0080,10-01-2024,Smartphone,Electronics,4,338.7,1354.8,Phoenix,19,UPI
+ORD0081,16-02-2024,T-shirt,Clothing,3,347.29,1041.87,Houston,40,Debit Card
+ORD0082,29-02-2024,Jeans,Clothing,2,416.6,833.2,Chicago,56,Cash
+ORD0083,17-01-2024,Bread,Grocery,1,122.16,122.16,New York,45,Credit Card
+ORD0084,15-02-2024,Laptop,Electronics,2,495.86,991.72,Houston,36,Credit Card
+ORD0085,08-02-2024,Eggs,Grocery,1,376.88,376.88,Houston,41,Credit Card
+ORD0086,19-02-2024,Milk,Grocery,2,76.05,152.1,Philadelphia,51,Credit Card
+ORD0087,04-02-2024,Laptop,Electronics,3,202.96,608.88,New York,36,UPI
+ORD0088,25-01-2024,Laptop,Electronics,5,247.71,1238.55,New York,52,Debit Card
+ORD0089,24-01-2024,Headphones,Electronics,1,328.54,328.54,Phoenix,20,Credit Card
+ORD0090,31-03-2024,Jeans,Clothing,1,272.92,272.92,Phoenix,24,Credit Card
+ORD0091,06-02-2024,Lamp,Furniture,2,277.45,554.9,Houston,31,Debit Card
+ORD0092,28-02-2024,Laptop,Electronics,2,227.6,455.2,San Antonio,25,Debit Card
+ORD0093,14-01-2024,Table,Furniture,1,31.02,31.02,Houston,52,Debit Card
+ORD0094,13-03-2024,Table,Furniture,5,435.39,2176.95,Chicago,37,Credit Card
+ORD0095,16-03-2024,Laptop,Electronics,5,304.97,1524.85,New York,52,Cash
+ORD0096,19-03-2024,Jeans,Clothing,2,12.33,24.66,Philadelphia,28,Cash
+ORD0097,22-02-2024,Laptop,Electronics,3,225.82,677.46,Chicago,45,UPI
+ORD0098,15-02-2024,Chair,Furniture,1,496.15,496.15,New York,30,Cash
+ORD0099,17-03-2024,T-shirt,Clothing,4,449.36,1797.44,Chicago,44,Cash
+ORD0100,21-01-2024,Headphones,Electronics,1,140.39,140.39,Chicago,55,Cash
